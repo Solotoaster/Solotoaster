@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Solotoaster and I am currently learning JavaScript with 100Devs
+My name is Mike and I am currently learning JavaScript with 100Devs
